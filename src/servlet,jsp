@@ -1,0 +1,5 @@
+Servlet, JSP
+
+- Servlet : Container가 이해할 수 있게 구성된 순수 자바 코드로만 이루어진 것(Html in JAVA)
+
+- JSP(Java Server Page) - html기반에 JAVA코드를 블록화하여 삽입한 것(JAVA in Html)
